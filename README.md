@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Meu nome é Helder, em transição de carreira.      
+Estudando Linux, containers, automação e arquitetura. 
+
+- :rocket: Atualmente trabalho como Analista de Produção na @telefonica
+
+- :book:  Leituras preferidas: tecnologia, historia e ficção (O mundo assombrado pelos demonios e Novembro de 63)
+
+- 💬  Gosto de falar sobre tecnologia, historia, cinema e politica.
+
 <!--
 **heldercesario/heldercesario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
