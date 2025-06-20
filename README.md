@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Helder, em transição de carreira.      
+Meu nome é Helder.      
 Estudando Linux, containers, automação e arquitetura. 
 
 - :rocket: Atualmente trabalho na @orange
