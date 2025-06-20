@@ -3,8 +3,8 @@
 Meu nome é Helder, em transição de carreira.      
 Estudando Linux, containers, automação e arquitetura. 
 
-- :rocket: Atualmente trabalho como Analista de Produção na @telefonica
-- 👨‍🎓 Proxima meta CKA 
+- :rocket: Atualmente trabalho na @orange
+- 👨‍🎓 Proxima meta certificação Openshift  
 
 - :book:  Leituras preferidas: tecnologia, historia e ficção (O mundo assombrado pelos demonios e Novembro de 63)
 
